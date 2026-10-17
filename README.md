@@ -22,3 +22,5 @@ python -m pip install -r requirements.txt
 python -m venv .venv
 
  source .venv/bin/activate
+
+ omarchy-theme-bg-set ~/Downloads/fondolinux.jpg
